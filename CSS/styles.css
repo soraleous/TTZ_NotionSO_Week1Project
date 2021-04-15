@@ -18,7 +18,12 @@
 
 }
 
+/* Parallax Image https://www.w3schools.com/howto/howto_css_parallax.asp */
 #creation {
+    background-image: url("../Images/bluegradient.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #contact {
